@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: All Colors\n"
+"POT-Creation-Date: 2020-09-25 03:44+0300\n"
+"PO-Revision-Date: 2020-09-25 03:44+0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: 404.php:11
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:13
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: attachment.php:31 single.php:28
+msgid " Previous"
+msgstr ""
+
+#: attachment.php:34 single.php:31
+msgid "Next "
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:39
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:45
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:47
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by WordPress"
+msgstr ""
+
+#: footer.php:53
+msgid "All rights reserved"
+msgstr ""
+
+#: footer.php:54
+msgid "All Colors Theme by Seos Themes"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:90
+msgid "Default Image 1"
+msgstr ""
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:119
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:128
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:146
+msgid "Footer 4"
+msgstr ""
+
+#: header.php:24
+msgid "Skip to content"
+msgstr ""
+
+#: include/back-to-top-button.php:12
+msgid "Back To Top Button Options"
+msgstr ""
+
+#: include/back-to-top-button.php:22
+msgid "Activate Back To Top Button"
+msgstr ""
+
+#: include/back-to-top-button.php:38
+msgid "Button Color"
+msgstr ""
+
+#: include/back-to-top-button.php:49
+msgid "Button Hover Color"
+msgstr ""
+
+#: include/back-to-top-button.php:55
+msgid "Button Background Color"
+msgstr ""
+
+#: include/back-to-top-button.php:66
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/colors.php:20
+msgid "Content Background Color"
+msgstr ""
+
+#: include/colors.php:30
+msgid "Menu Color "
+msgstr ""
+
+#: include/colors.php:40
+msgid "Menu Hover Color "
+msgstr ""
+
+#: include/colors.php:50
+msgid "Menu Background Color"
+msgstr ""
+
+#: include/colors.php:60
+msgid "H1, H2, H3, H4, H5, H6"
+msgstr ""
+
+#: include/colors.php:70
+msgid "Link Colors"
+msgstr ""
+
+#: include/colors.php:80
+msgid "Link Hover Colors"
+msgstr ""
+
+#: include/colors.php:90
+msgid "Body Colors"
+msgstr ""
+
+#: include/colors.php:100
+msgid "Article Background Color"
+msgstr ""
+
+#: include/colors.php:111
+msgid "Sidebar Background Color"
+msgstr ""
+
+#: include/colors.php:121
+msgid "Buttons Color"
+msgstr ""
+
+#: include/colors.php:131
+msgid "Buttons Background Color"
+msgstr ""
+
+#: include/colors.php:141
+msgid "Buttons Background Hover Color"
+msgstr ""
+
+#: include/colors.php:151
+msgid "Footer Background Color"
+msgstr ""
+
+#: include/colors.php:161
+msgid "Footer Colors"
+msgstr ""
+
+#: include/colors.php:171
+msgid "Footer Hover Color"
+msgstr ""
+
+#: include/colors.php:182
+msgid "Rights  Color"
+msgstr ""
+
+#: include/colors.php:193
+msgid "Rights Hover Color"
+msgstr ""
+
+#: include/colors.php:204
+msgid "Rights Background Color"
+msgstr ""
+
+#: include/content-customizer.php:7 include/content-customizer.php:38
+msgid "One"
+msgstr ""
+
+#: include/content-customizer.php:8 include/content-customizer.php:39
+msgid "Two"
+msgstr ""
+
+#: include/content-customizer.php:22
+msgid "Content Options"
+msgstr ""
+
+#: include/content-customizer.php:33
+msgid "Homepage Post Columns"
+msgstr ""
+
+#: include/content-customizer.php:53
+msgid "Content max width"
+msgstr ""
+
+#: include/content-customizer.php:70
+msgid "Content Padding"
+msgstr ""
+
+#: include/content-customizer.php:84
+msgid "Hide sidebar and content on home page"
+msgstr ""
+
+#: include/customizer.php:33
+msgid "Background Color "
+msgstr ""
+
+#: include/customizer.php:50
+msgid "center center"
+msgstr ""
+
+#: include/customizer.php:51 include/customizer.php:150
+msgid "Real Size (Deactivate the image height.)"
+msgstr ""
+
+#: include/customizer.php:63 include/customizer.php:114
+msgid "Default"
+msgstr ""
+
+#: include/customizer.php:64 include/customizer.php:115
+msgid "All Pages"
+msgstr ""
+
+#: include/customizer.php:65 include/customizer.php:116
+msgid "Home Page"
+msgstr ""
+
+#: include/customizer.php:84
+msgid "Header Button 1 "
+msgstr ""
+
+#: include/customizer.php:85
+msgid "The button is activated after inserting text in the field"
+msgstr ""
+
+#: include/customizer.php:98
+msgid "Button 1 URL"
+msgstr ""
+
+#: include/customizer.php:108
+msgid "Activate Header Image"
+msgstr ""
+
+#: include/customizer.php:129
+msgid "Image Height"
+msgstr ""
+
+#: include/customizer.php:143
+msgid "Image Position"
+msgstr ""
+
+#: include/customizer.php:149
+msgid "Background Cover (center center)"
+msgstr ""
+
+#: include/customizer.php:161
+msgid "Dectivate Image Shadow:"
+msgstr ""
+
+#: include/header-top.php:21
+msgid "Menu"
+msgstr ""
+
+#: include/header-top.php:34 include/header-top.php:37
+msgid "header image"
+msgstr ""
+
+#: include/home-images.php:17
+msgid "Home Image "
+msgstr ""
+
+#: include/home-images.php:35
+msgid "Homepage Images"
+msgstr ""
+
+#: include/home-images.php:42
+msgid "Image"
+msgstr ""
+
+#: include/home-images.php:45
+msgid "Select IMG. The image will be activated."
+msgstr ""
+
+#: include/home-images.php:54
+msgid "Image (URL)"
+msgstr ""
+
+#: include/home-images.php:55
+msgid "Load IMG - width: 300px / height: 360px"
+msgstr ""
+
+#: include/home-images.php:90
+msgid "Image URL"
+msgstr ""
+
+#: include/read-more-button.php:24
+msgid "Read More"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: include/template-tags.php:65
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: post title
+#: include/template-tags.php:78
+#, php-format
+msgid ""
+"<span class=\"dashicons dashicons-admin-comments\"></span> Leave a "
+"Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: include/template-tags.php:95 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: search query.
+#: search.php:26
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:28
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:48
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:28 template-parts/content.php:65
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:54
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "All Colors"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://seosthemes.com/all-colors-wordpress-theme/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"All Colors is 2020 cleanmulti-purpose HTML5 theme. Unlimited colors of all "
+"elements, very fast and SEO friendly. Gutenberg Compatible, WooCommerce "
+"Compatible, Full Responsive, Content Options, Header Options, Back To Top "
+"Button, Microdata, Custom Colors. The theme is excellent for any, business."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "seosbg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://seosthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Page"
+msgstr ""
